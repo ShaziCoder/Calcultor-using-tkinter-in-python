@@ -1,1 +1,2 @@
 # Calcultor-using-tkinter-in-python
+A basic calculator application built with Python's Tkinter library, performing simple arithmetic operations. The user interface features a display screen and a keypad with numerical buttons (0-9) and basic operator buttons (+, -, x, /). Users can enter numbers and select operations to perform simple calculations, with results displayed on the screen. The application provides a straightforward and easy-to-use interface for basic arithmetic calculations.
